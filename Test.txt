@@ -1,1 +1,2 @@
 Testing this with new file
+Fixed bug
